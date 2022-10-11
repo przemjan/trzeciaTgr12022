@@ -34,7 +34,14 @@ public class Zmienne {
 
         boolean slonce = true; //false
 
+        // https://github.com/przemjan/trzeciaTgr12022
 
+        // windows R
+        // \\ubuckp
+
+        // public/ janisz
+
+        // uporządkujponi....pdf
 
     }
 }
